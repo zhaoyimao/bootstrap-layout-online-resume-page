@@ -1,13 +1,11 @@
-# HTML 练习 - 试卷
+#  练习 - Bootstrap 简历
 ## 需求描述
-根据以下原型图，在 `index.html` 中编写 HTML 代码。
-![](./mockup.png)
+根据[原型图](http://wrapbootstrap.com/preview/WB0265951)，在 `index.html` 中编写 HTML 代码。
 
 ## 作业要求
-1. 可以计算分数
-
-## 作业提示
-1. 使用 `console.log` 输出调试
+1. 使用 Bootstrap
+1. 适配移动端屏幕
+1. 布局时先整体后细节
 
 ## 如何使用
 
@@ -32,9 +30,8 @@
 5. [git用法2](https://try.github.io/levels/1/challenges/1)
 6. [git简易指南](http://gitref.org/zh/index.html)
 7. [github用法](https://guides.github.com/activities/hello-world/)
-8. [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 9. [W3School](http://www.w3school.com.cn/)
-
+1. [Bootstrap](http://www.bootcss.com/)
 
 ## 答题流程
 - 请用户仔细阅读题目要求和题目描述
