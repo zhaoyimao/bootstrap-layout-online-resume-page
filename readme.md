@@ -5,7 +5,10 @@
 
 ## 挑战:
 
-1. 学会使用Bootstrap UI组件
+1. 使用Bootstrap UI组件
+2. 响应式布局，适配移动端屏幕
+3. 使用Bootstrap布局
+4. CSS的基本使用
 
 ## 要求:
 
